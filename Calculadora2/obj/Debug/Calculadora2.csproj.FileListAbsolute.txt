@@ -1,0 +1,8 @@
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\Desenvolvi\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
