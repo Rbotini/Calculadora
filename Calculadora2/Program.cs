@@ -27,14 +27,14 @@ namespace Calculadora2
                         Somar();
                         break;
                     case menu.subtrair:
-                       
+                        Subtrair();
                         break;
 
                     case menu.dividir:
-                        
+                        Dividir();
                         break;
                     case menu.multiplicar:
-                       
+                        Multiplicar();
                         break;
 
                     case menu.Sair:
@@ -88,6 +88,18 @@ namespace Calculadora2
             Console.WriteLine("Entre com o Segundo Valor:");
             int n2 = int.Parse(Console.ReadLine());
             int resultado = n1 / n2;
+            Console.WriteLine("Resultado:" + resultado);
+            Console.ReadLine();
+        }
+
+        static void Multiplicar()
+        {
+            Console.WriteLine("Subtração Dos Valores");
+            Console.WriteLine("Entre com o Primeiro Valor:");
+            int n1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Entre com o Segundo Valor:");
+            int n2 = int.Parse(Console.ReadLine());
+            int resultado = n1 * n2;
             Console.WriteLine("Resultado:" + resultado);
             Console.ReadLine();
         }
